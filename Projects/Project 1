@@ -1,0 +1,9 @@
+Import codesters 
+from codesters import StageClass 
+stage = StageClass()
+Stage.set_background("winter")
+
+q1 = codesters.Square(100, 100, 200, 'blue')
+q2 = codesters.Square(-100, 100, 200, 'yellow')
+q3
+q4 
